@@ -1,0 +1,11 @@
+{
+  "name": "lab1-n-version-programming",
+  "version": "0.0.1",
+  "description": "n-version programming",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Nikolay Zenyutkin",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
